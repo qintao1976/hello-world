@@ -1,2 +1,6 @@
 # hello-world
-hello word project to learn github
+====================
+
+HI Humans!
+
+This is just a test for hello-world project!
